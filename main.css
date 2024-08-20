@@ -1,0 +1,36 @@
+.MainDiv{
+    text-align: center;
+}
+
+body{
+    background-color: #444444;
+}
+
+#TitleOnPage{
+    color: #ffffff;
+}
+
+#CounterDisplay{
+    align-content: center;
+    margin: auto;
+    height: 1em;
+    width: 10em;
+    font-size: 8em;
+    border: 4px #000000 solid;
+    border-radius: 8px;
+    background-color: #008844;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.CounterButton{
+    border: #000000 solid;
+    margin: 5px;
+    border-radius: 8px;
+}
+
+#SetButtonInput{
+    border: #000000 solid;
+    margin: 5px;
+    border-radius: 8px;
+}
